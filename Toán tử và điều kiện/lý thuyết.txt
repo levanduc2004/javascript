@@ -1,0 +1,30 @@
+I. Toán tử: 
+- là các kí hiệu dùng để thực hiện các phép tính hoặc so sánh các giá trị 
+- toán tử số học:
+    + (+) cộng, (-) trừ, (*) nhân, (/) chia
+    + (%) chia lấy dư
+    + (**) lũy thừa
+    + (++) tăng lên 1 đơn vị, (--) giảm đi 1 đơn vị
+- toán tử gán:
+    +  (=): Gán giá trị
+    + (+=), (-=), (*=), (/=): Gán giá trị kết hợp với tính toán
+- toán tử so sánh:
+    + (==) :so sánh bằng
+    + (!=) :so sánh không bằng
+    + (===): so sánh bằng tuyệt đối
+    + (!==): so sánh không bằng tuyệt đối
+    + (>): lớn hơn
+    + (<): nhỏ hơn
+    + (>=): lớn hơn hoặc bằng
+    + (<=): nhỏ hơn hoặc bằng
+- toán tử logic: 
+    + (&&): trả về nếu tất cả đều đúng
+    + (||): trả về nếu có ít nhất 1 điều kiện đúng
+    + (!): đảo ngược giá trị
+
+II. Điều kiện
+- Giúp chương trình biết suy nghĩ và đưa ra quyết định trên các tình huống khác nhau
++ If...else: nếu điều kiện trong ngoặc đúng thì khối mã bên trong đó hoạt động
++ switch...case: nếu muốn kiểm tra 1 biến với nhiều giá trị khác nhau
++ toán tử 3 ngôi: cú pháp nhanh của if...else
+    điều_kiện ? giá_trị_đúng : giá_trị_sai
